@@ -1,0 +1,15 @@
+D:\CODDY\Unity\cos\cos\bin\Debug\net6.0\cos.exe
+D:\CODDY\Unity\cos\cos\bin\Debug\net6.0\cos.deps.json
+D:\CODDY\Unity\cos\cos\bin\Debug\net6.0\cos.runtimeconfig.json
+D:\CODDY\Unity\cos\cos\bin\Debug\net6.0\cos.dll
+D:\CODDY\Unity\cos\cos\bin\Debug\net6.0\ref\cos.dll
+D:\CODDY\Unity\cos\cos\bin\Debug\net6.0\cos.pdb
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.csproj.AssemblyReference.cache
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.AssemblyInfoInputs.cache
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.AssemblyInfo.cs
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.csproj.CoreCompileInputs.cache
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.dll
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\ref\cos.dll
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.pdb
+D:\CODDY\Unity\cos\cos\obj\Debug\net6.0\cos.genruntimeconfig.cache
