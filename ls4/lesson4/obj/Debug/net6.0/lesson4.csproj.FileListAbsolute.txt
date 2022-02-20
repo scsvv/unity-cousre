@@ -1,0 +1,15 @@
+D:\CODDY\Unity\cos\lesson4\lesson4\bin\Debug\net6.0\lesson4.exe
+D:\CODDY\Unity\cos\lesson4\lesson4\bin\Debug\net6.0\lesson4.deps.json
+D:\CODDY\Unity\cos\lesson4\lesson4\bin\Debug\net6.0\lesson4.runtimeconfig.json
+D:\CODDY\Unity\cos\lesson4\lesson4\bin\Debug\net6.0\lesson4.dll
+D:\CODDY\Unity\cos\lesson4\lesson4\bin\Debug\net6.0\ref\lesson4.dll
+D:\CODDY\Unity\cos\lesson4\lesson4\bin\Debug\net6.0\lesson4.pdb
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.csproj.AssemblyReference.cache
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.AssemblyInfoInputs.cache
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.AssemblyInfo.cs
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.csproj.CoreCompileInputs.cache
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.dll
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\ref\lesson4.dll
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.pdb
+D:\CODDY\Unity\cos\lesson4\lesson4\obj\Debug\net6.0\lesson4.genruntimeconfig.cache
